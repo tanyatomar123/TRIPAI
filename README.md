@@ -27,4 +27,14 @@ TRIPAI  is a conversational travel planning assistant built using Hugging Face's
 SCREENSHOT
 ![image](https://github.com/user-attachments/assets/c897fd8f-c184-4f14-86bc-d10f70391a3a)
 
+🤝 Credits
+Developer: Tanya Tomar
+
+Model: Mixtral-8x7B-Instruct
+
+Frameworks: LangChain, Streamlit, Hugging Face
+
+DEMO LINK 
+https://huggingface.co/spaces/tanya17/TRIPAII
+
 
