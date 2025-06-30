@@ -24,4 +24,7 @@ TRIPAI  is a conversational travel planning assistant built using Hugging Face's
 - **Deployment Ready**: Can be hosted on Streamlit Cloud or Hugging Face Spaces  
 
 ---
+SCREENSHOT
+![image](https://github.com/user-attachments/assets/c897fd8f-c184-4f14-86bc-d10f70391a3a)
+
 
